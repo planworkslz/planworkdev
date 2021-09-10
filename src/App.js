@@ -82,7 +82,7 @@ function App() {
           </div>
           <Button onClick={onFileUpload}>ENVIAR PDF</Button>
       
-      </div>
+      </div>  
 
     </div>
 
